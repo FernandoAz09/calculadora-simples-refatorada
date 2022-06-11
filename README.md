@@ -8,9 +8,12 @@
 
 <hr>
 
-## Sobre a Calculadora Simples - JS <a name="sobre"></a>
+## Sobre a Calculadora Simples - JS REFATORADA <a name="sobre"></a>
 
-<p align="left"> A Calculadora Simples - JS foi desenvolvida para aprender e treinar mais sobre os conceitos de Funções, variáveis e manipulação da DOM com o JavaScript </p>
+<p align="left"><strong>Iniciada refatoração para melhorias no código, eliminação de bugs e nova estilização</strong></p>
+<br>
+<p align="left">A Calculadora Simples - JS foi desenvolvida para aprender e treinar mais sobre os conceitos de Funções, variáveis e manipulação da DOM com o JavaScript</p>
+
 
 <!-- <img src="/assets/img/calculadora.png"> -->
 
