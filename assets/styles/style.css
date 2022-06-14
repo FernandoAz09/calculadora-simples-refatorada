@@ -2,12 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: bold;
 }
 
 body {
-    background: linear-gradient(to right, #233329, #5affb5);
+    background: linear-gradient(to right, #133d41, #8c5aff);
 }
 
 .grid-container{
@@ -22,14 +22,19 @@ body {
 .grid-container > button {
     cursor: pointer;
     font-size: 2rem;
-    border: 1px solid #111;
+    border: none;
     outline: none;
     background-color: #111;
     color: #eee;
 }
 
+.grid-container > button:hover {
+    background: #eee;
+    color: #111;
+}
+
 .grid-container > .operator {
-    background: rgb(15, 247, 177);
+    background: rgb(105, 67, 155);
 }
 
 .span-two {
@@ -47,3 +52,13 @@ body {
     word-wrap: break-word;
     word-break: break-all;
 }
+
+.grid-container > .output > .previous-operand {
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 16px;
+  }
+  
+  .grid-container > .output > .current-operand {
+    color: white;
+    font-size: 32px;
+  }
