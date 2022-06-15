@@ -7,20 +7,15 @@
 
 <hr>
 
+## Sobre a Calculadora Simples - JS REFATORADA <a name="sobre"></a>
+
+<p align="left">A Calculadora Simples - JS foi desenvolvida para aprender e treinar mais sobre os conceitos de Funções, variáveis e manipulação da DOM com o JavaScript</p>
+
 ## Preview do projeto
 
 <img src="assets/img/calculadora3.png" alt="" width="350px" height="300px">
 <img src="assets/img/calculadora.png" alt="" width="400px" height="300px">
 <img src="assets/img/calculadora2.png" alt="" width="350px" height="300px">
-
-## Sobre a Calculadora Simples - JS REFATORADA <a name="sobre"></a>
-
-<p align="left"><strong>Iniciada refatoração para melhorias no código, eliminação de bugs e nova estilização</strong></p>
-<br>
-<p align="left">A Calculadora Simples - JS foi desenvolvida para aprender e treinar mais sobre os conceitos de Funções, variáveis e manipulação da DOM com o JavaScript</p>
-
-
-<!-- <img src="/assets/img/calculadora.png"> -->
 
 <hr>
 
